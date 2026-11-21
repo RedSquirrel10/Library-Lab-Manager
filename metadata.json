@@ -1,0 +1,6 @@
+{
+  "name": "ShelfLedger",
+  "description": "Campus Library and Lab Inventory Manager for managing borrowing, returns, availability, and overdue fines using relational tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
